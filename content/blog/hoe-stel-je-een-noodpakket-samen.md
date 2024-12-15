@@ -3,7 +3,7 @@ title: Hoe stel je een noodpakket samen?-2
 summary: Een complete gids voor het samenstellen van een effectief noodpakket
   voor verschillende situaties.
 date: 2024-03-14T18:59:01.876Z
-imageUrl: /images/noodpakket-basis.png
+imageUrl: /images/uploads/noodpakket-basis.png
 category: Veiligheid
 author: Emma de Vries
 content: >-
